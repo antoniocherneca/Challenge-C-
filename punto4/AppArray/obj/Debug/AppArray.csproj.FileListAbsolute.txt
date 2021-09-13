@@ -1,0 +1,10 @@
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\bin\Debug\AppArray.exe.config
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\bin\Debug\AppArray.exe
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\bin\Debug\AppArray.pdb
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\obj\Debug\AppArray.csproj.AssemblyReference.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\obj\Debug\AppArray.frmArray.resources
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\obj\Debug\AppArray.Properties.Resources.resources
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\obj\Debug\AppArray.csproj.GenerateResource.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\obj\Debug\AppArray.csproj.CoreCompileInputs.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\obj\Debug\AppArray.exe
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto4\AppArray\obj\Debug\AppArray.pdb

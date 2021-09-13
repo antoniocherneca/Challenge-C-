@@ -1,0 +1,10 @@
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\bin\Debug\AppFilesAndDirectories.exe.config
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\bin\Debug\AppFilesAndDirectories.exe
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\bin\Debug\AppFilesAndDirectories.pdb
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\obj\Debug\AppFilesAndDirectories.csproj.AssemblyReference.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\obj\Debug\AppFilesAndDirectories.Properties.Resources.resources
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\obj\Debug\AppFilesAndDirectories.csproj.GenerateResource.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\obj\Debug\AppFilesAndDirectories.csproj.CoreCompileInputs.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\obj\Debug\AppFilesAndDirectories.exe
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\obj\Debug\AppFilesAndDirectories.pdb
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto2\AppFilesAndDirectories\obj\Debug\AppFilesAndDirectories.frmArchivosDirectorios.resources

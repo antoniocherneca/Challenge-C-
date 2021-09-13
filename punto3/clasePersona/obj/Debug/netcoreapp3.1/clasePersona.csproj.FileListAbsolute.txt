@@ -1,0 +1,13 @@
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\bin\Debug\netcoreapp3.1\clasePersona.exe
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\bin\Debug\netcoreapp3.1\clasePersona.deps.json
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\bin\Debug\netcoreapp3.1\clasePersona.runtimeconfig.json
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\bin\Debug\netcoreapp3.1\clasePersona.runtimeconfig.dev.json
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\bin\Debug\netcoreapp3.1\clasePersona.dll
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\bin\Debug\netcoreapp3.1\clasePersona.pdb
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\obj\Debug\netcoreapp3.1\clasePersona.csproj.AssemblyReference.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\obj\Debug\netcoreapp3.1\clasePersona.AssemblyInfoInputs.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\obj\Debug\netcoreapp3.1\clasePersona.AssemblyInfo.cs
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\obj\Debug\netcoreapp3.1\clasePersona.csproj.CoreCompileInputs.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\obj\Debug\netcoreapp3.1\clasePersona.dll
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\obj\Debug\netcoreapp3.1\clasePersona.pdb
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto3\clasePersona\obj\Debug\netcoreapp3.1\clasePersona.genruntimeconfig.cache

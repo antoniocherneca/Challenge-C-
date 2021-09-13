@@ -1,0 +1,15 @@
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\bin\Debug\netcoreapp3.1\AppTimer.exe
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\bin\Debug\netcoreapp3.1\AppTimer.deps.json
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\bin\Debug\netcoreapp3.1\AppTimer.runtimeconfig.json
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\bin\Debug\netcoreapp3.1\AppTimer.runtimeconfig.dev.json
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\bin\Debug\netcoreapp3.1\AppTimer.dll
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\bin\Debug\netcoreapp3.1\AppTimer.pdb
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.csproj.AssemblyReference.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.frmTimer.resources
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.csproj.GenerateResource.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.AssemblyInfoInputs.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.AssemblyInfo.cs
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.csproj.CoreCompileInputs.cache
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.dll
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.pdb
+E:\ESCRITORIO\CHALLENGES\Romina\C#\punto5\AppTimer\obj\Debug\netcoreapp3.1\AppTimer.genruntimeconfig.cache
